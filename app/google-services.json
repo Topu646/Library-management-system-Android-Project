@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "507362440380",
+    "project_id": "library-book-management-6af19",
+    "storage_bucket": "library-book-management-6af19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507362440380:android:412ad46db0b2c7c89e4cb9",
+        "android_client_info": {
+          "package_name": "com.example.librarymanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507362440380-c234m0r3sl4fevaub188tm3pa4c79qpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.librarymanagementapp",
+            "certificate_hash": "4124eb5687b56ef2bd19e13cbec9defe1d40eef9"
+          }
+        },
+        {
+          "client_id": "507362440380-iefpfp0kpt2v439jn56441u6s7m3cll3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyqIes8TFvH-ZvVwoiQqheLwnQpN9x5gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507362440380-iefpfp0kpt2v439jn56441u6s7m3cll3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
